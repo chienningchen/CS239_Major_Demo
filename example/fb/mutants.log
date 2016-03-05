@@ -1,0 +1,6 @@
+1:ROR:<=(int,int):<(int,int):FbClass.FbClass@calculate_fb:11:n <= 0 |==> n < 0
+2:ROR:<=(int,int):==(int,int):FbClass.FbClass@calculate_fb:11:n <= 0 |==> n == 0
+3:ROR:<=(int,int):TRUE(int,int):FbClass.FbClass@calculate_fb:11:n <= 0 |==> true
+4:ROR:<=(int,int):<(int,int):FbClass.FbClass@calculate_fb:13:n <= 2 |==> n < 2
+5:ROR:<=(int,int):==(int,int):FbClass.FbClass@calculate_fb:13:n <= 2 |==> n == 2
+6:ROR:<=(int,int):TRUE(int,int):FbClass.FbClass@calculate_fb:13:n <= 2 |==> true
